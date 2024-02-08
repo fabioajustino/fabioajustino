@@ -1,6 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Fabio and my nickname is "fabioajustino"!
 
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <!--
 **fabioajustino/fabioajustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
