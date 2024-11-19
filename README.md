@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Fabio and my nickname is "fabioajustino"!
 
 ## Ferramentas e Tecnologias
 
