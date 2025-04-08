@@ -3,9 +3,7 @@
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<script src="
-https://cdn.jsdelivr.net/npm/less@4.3.0/dist/less.min.js
-"></script>
+
 
 ## Estou aprendendo
 
